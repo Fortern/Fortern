@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fortern
 - 👀 I’m interested in Minecraft
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Spring Cloud
+- 💞️ I’m looking to collaborate on 落星原
 - 📫 How to reach me ...
 
 <!---
