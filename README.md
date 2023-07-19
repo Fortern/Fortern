@@ -5,6 +5,7 @@
 - 🌠 I’m looking to collaborate on [落星原](https://www.luoxingyuan.com)
 - 🌈 My GitLab site is https://git.fortern.xyz/Fortern
 - 🍬 Although this may sound boring, my favorite color is red, my favorite number is 9, and my favorite food is peanuts.
+- 为什么人要上班。Fuck all.
 
 <!---
 - 📫 How to reach me ...
