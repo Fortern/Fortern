@@ -3,7 +3,7 @@
 - 🌏 I’m from China
 - 🌱 I’m currently learning Spring Cloud, Kotlin, PaperMC Plugin
 - 🌠 I’m looking to collaborate on [落星原](https://www.luoxingyuan.com)
-- 🌈 My GitLab site is https://git.fortern.xyz/Fortern
+- 🌈 My GitLab site is https://gitlab.fortern.xyz
 - 🍬 Although this may sound boring, my favorite color is red, my favorite number is 9, and my favorite food is peanuts.
 
 <!---
