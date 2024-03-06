@@ -1,3 +1,5 @@
+**天天上班，素质低点也正常。**
+
 - 👋 Hi, I’m @Fortern
 - 💞️ I’m interested in Minecraft
 - 🌏 I’m from China
